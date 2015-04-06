@@ -1,0 +1,1 @@
+# Makro n:target pro Latte šablony #
