@@ -1,0 +1,19 @@
+{
+    "name": "jinovak/latte-target",
+    "description": "Latte engine macro n:target",
+    "require": {
+        "latte/latte": "~2.3.1"
+    },
+    "authors": [
+        {
+            "name": "Jiri Novak",
+            "email": "novak@egen.cz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+      "psr-0": {
+        "LatteTarget\\": "src/"
+      }
+    }
+}
